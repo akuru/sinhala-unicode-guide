@@ -1,9 +1,0 @@
-== Contribution Guide
-
-Edit the `src/asciidoc/content.adoc` file.
-
-=== Output Directory
-
-Output of the files will be stored on `/extras` directory. 
-
-
