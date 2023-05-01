@@ -1,0 +1,4 @@
+- [යුනිකේතය ගැන](unicode.md)
+- [සිංහල යුනිකේත](sinhala-unicode.md)
+- [නිතර අසන පැන](faq.md)
+- [දායකත්ව සැපයූවන්](contributors.md)

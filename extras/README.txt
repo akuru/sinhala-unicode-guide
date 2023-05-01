@@ -1,1 +1,0 @@
-Do not edit content on this folder. This is used for output.
